@@ -1,2 +1,3 @@
 # Batch
-Windows batch script
+used to PT-BR Windows OS
+scripts to automate windows
