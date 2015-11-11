@@ -99,11 +99,6 @@ cls
 	ipconfig
 	echo.
 	echo.
-	echo 1 = Menu
-	echo 2 = Sair
-	echo.
-	set /p type=O que deseja fazer? 
-	if %type% == 1 GOTO MENU
-	if %type% == 2 GOTO Exit
+	exit
 
 
